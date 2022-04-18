@@ -96,3 +96,6 @@ How To Push An Existing Repository From The Command Line:
 -   'git push' origin 'your-branch-name': This command will push changes onto a new branch on Github. Github will automatically create the branch for you on the remote repository.
 -   In order to get the most recent changes that you or others have merged on Github, use the 'git pull origin master' command (when working on the primary branch). In most cases, this can be shortened to 'git pull'. This shows you all of the files that have changed and how they've changed.
 -   'git log': This command is used to see all the new commits (You may need to switch branches back to the primary branch. You can do that using the 'git checkout master' command).
+
+#### Task 7: ####
+-   'https://owenb-hamd.github.io/tribute-page/' - Link to tribute page.
